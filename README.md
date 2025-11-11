@@ -126,6 +126,19 @@ DOCKERHUB_TOKEN
 
 Docker Hub Link:  https://hub.docker.com/repository/docker/arthnangar7/module10
 
+## Screenshots
+
+### ✅ GitHub Actions – Successful CI/CD Run
+![GitHub Actions Workflow](screenshots/image1.png)
+
+### 🐳 Docker Hub – Image Successfully Pushed
+![Docker Hub Image](screenshots/image2.png)
+
+### 🧪 Tests – All Passed with Coverage
+![Docker Hub Image](screenshots/image.png)
+
+
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
